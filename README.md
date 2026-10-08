@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/surajrajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajsurajr" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rajsurajr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajsurajr" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rajsurajr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajsurajr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajsurajr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajsurajr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rajsuraj2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajsurajr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
